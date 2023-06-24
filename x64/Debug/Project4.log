@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Project4\Source.cpp(24,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Project4\Source.cpp(53,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Project4\Source.cpp(59,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Project4\Source.cpp(75,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Project4\Source.cpp(84,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Project4.vcxproj -> D:\Project4\x64\Debug\Project4.exe
