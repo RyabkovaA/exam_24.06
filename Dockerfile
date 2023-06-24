@@ -15,7 +15,7 @@ COPY *.cpp .
 COPY *.sln .
 
 
-RUN qmake myProgram.pro
+RUN cmake ..
 RUN make
 
 ENTRYPOINT ["./Project4"]
